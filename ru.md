@@ -12,6 +12,9 @@ https://github.com/Viralmaniar/Powershell-RAT
 3-Распаковать архив
 
 
+
+https://github.com/Viralmaniar/Powershell-RAT 
+
 4-Перед запуском скрипта измените эти значения с помощью вновь созданных данных учетной записи Gmail в Mail. ps1 
 $$username $password и $msg.From и $msg.To.Add
 Добавить одноразовый адрес электронной почты.
